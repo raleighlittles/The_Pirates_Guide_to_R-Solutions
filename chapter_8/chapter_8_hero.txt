@@ -1,0 +1,12 @@
+
+Name	Sex	Age	Superhero	Tattoos
+Astrid	F	30	Batman	11
+Lea	F	25	Superman	15
+Sarina	F	25	Batman	12
+Remon	M	29	Spiderman	5
+Letizia	F	22	Batman	65
+Babice	F	22	Antman	3
+Jonas	M	35	Batman	9
+Wendy	F	19	Superman	13
+Niveditha	F	32	Maggott	900
+Gioia	F	21	Superman	0
