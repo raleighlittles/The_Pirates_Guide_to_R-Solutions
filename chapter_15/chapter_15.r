@@ -74,3 +74,4 @@ gtools::inv.logit(logit.predict)
 ## Result is
 ##         1         2         3 
 ## 0.6750779 0.4406588 0.8890544 
+
